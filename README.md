@@ -1,2 +1,2 @@
-# first_project
+# first-project
 first repo used as a test
